@@ -2,16 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:   
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,8 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Robert - I'm a Math and Economics graduate and am pursuing opportunities in data analysis. I have experience in Excel, R, Python, and SQL, and have previously worked in insurance, finance, and economic research. Whether it's automating data visualization through R, improving Excel macros for complex calculations, or communicating findings into actionable insights, I consistently apply my expertise to solving problems and creating impact. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from the University of Chicago in 2023 and took a 5-month break after school to travel around Europe, focusing on doing volunteer work for organizations such as Scandinavian Cello School. I'm particularly interested in problems within the fields of healthcare, sustainability, nonprofit work, or media/entertainment, and I'm always passionate about learning more about the world.  
+
+On the side, I also like to indulge in more offbeat data explorations, such as how your first name may be associated with certain personality traits (ongoing). I draw inspiration from creators like [Jon Bois](https://www.youtube.com/watch?v=F9H9LwGmc-0) and the ["Unusual"](https://www.informationisbeautifulawards.com/showcase?acategory=unusual&page=1&type=awards) section of Information is Beautiful. Ultimately, I'd love to explore questions that interest me, ranging from topics like why "blue zones" claim to have healthier, happier people, or how music around the world varies in BPM, key usage, and chord structure, and what that might reveal about the underlying culture.
+
+Outside of work, I like to travel, do crosswords, hike, and sing. I'm also learning how to crochet and bake (deliverables TBD...)!
